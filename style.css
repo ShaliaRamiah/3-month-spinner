@@ -119,10 +119,6 @@ body {
     letter-spacing: 1px;
 }
 
-#spin:hover {
-    box-shadow: none;
-}
-
 .stoper {
     height: 50px;
     width: 40px;
